@@ -1,8 +1,9 @@
 body {
-background-color: lightsteelblue    
+/*    background-color: lightsteelblue    */
+    background-image: url('http://www.soccer.com/guide/wp-content/uploads/2013/07/336601-300x300.jpg');
 }
 nav a {
-    color:aliceblue
+    color:black;
 }
 
 #current-link{
@@ -20,5 +21,7 @@ img{
 }
 
 h1{
-    border-top: 2px dashed black;
+    border-top: 2px dashed black; 
+    margin-left:50px;
+    margin-right:100px;
 }
